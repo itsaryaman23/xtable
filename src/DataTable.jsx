@@ -24,6 +24,7 @@ const DataTable = () => {
 
   return (
     <div>
+      <h1>Date and Views Table</h1>
       {/* <div> */}
         <button onClick={sortByViews}>Sort by Views</button>
         <button onClick={sortByDate}>Sort by Date</button>
